@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome to dojo-blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae molestiae quibusdam dolorem officiis, et laudantium fugit voluptate optio facere veniam nihil adipisci expedita ullam eligendi cupiditate reprehenderit sunt enim nesciunt.",
+      "tags": [
+        "webdeb",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Allah-hu-Akbar",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur non eligendi magni unde amet, et a voluptas harum nobis! Illum tempora quia laborum odit, excepturi libero fugiat ratione perferendis tenetur temporibus commodi error ex odio, id dolorum dolores expedita iste magni alias quod. Quae magnam eaque, rerum temporibus aliquid ad.",
+      "tags": [
+        "css",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": "331a",
+      "title": "New Blog",
+      "body": "A blog (short for “weblog”) is an online journal or informational website run by an individual, group, or corporation that offers regularly updated content (blog post) about a topic. It presents information in reverse chronological order and it's written in an informal or conversational style.",
+      "tags": [
+        "blog",
+        "new",
+        "vue",
+        "css"
+      ]
+    },
+    {
+      "id": "5dd6",
+      "title": "New ABC",
+      "body": "juiopauwefoiqweurqweru qwoeurqoieruqw rqwoeruqoiruqo0r70lksdfoweyq wfqweurq7r wf",
+      "tags": [
+        "css",
+        "java",
+        "js"
+      ]
+    }
+  ]
+}
